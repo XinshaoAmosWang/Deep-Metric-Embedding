@@ -1,4 +1,5 @@
-1. Sampling Matters in Deep Embedding Learning
+#### Sampling Matters in Deep Embedding Learning
+Paper: 
 
 Code (MXNet + Python): https://github.com/apache/incubator-mxnet/tree/master/example/gluon/embedding_learning
 
