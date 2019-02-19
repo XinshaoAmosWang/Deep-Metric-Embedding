@@ -1,7 +1,6 @@
-# General Machine Learning Technologies
-## Normalisation
-#### Pros and cons of weight normalization vs batch normalization
-* StachExchange: https://stats.stackexchange.com/questions/304755/pros-and-cons-of-weight-normalization-vs-batch-normalization
+# Normalisation
+## Pros and cons of weight normalization vs batch normalization
+#### StachExchange: https://stats.stackexchange.com/questions/304755/pros-and-cons-of-weight-normalization-vs-batch-normalization
 
 Batch Norm:
 
@@ -48,7 +47,7 @@ Layer Norm:
 (-) Might be not good for CNN (Batch Norm is better in some cases)
 
 
-* Comparison of Batch Normalization and Weight Normalization Algorithms for the Large-scale Image Classification: https://arxiv.org/pdf/1709.08145.pdf
+#### Comparison of Batch Normalization and Weight Normalization Algorithms for the Large-scale Image Classification: https://arxiv.org/pdf/1709.08145.pdf
 
 We found that although WN achieves better training accuracy, the final test accuracy is significantly lower (≈6%) than that of BN. This result demonstrates the surprising strength of the BN regularization effect which we were unable to compensate for using standard regularization techniques like dropout and weight decay. We also found that training of deep networks with WN algorithms is significantly less stable compared to BN, limiting their practical applications.
 
