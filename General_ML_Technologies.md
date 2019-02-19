@@ -51,8 +51,8 @@ Layer Norm:
 
 We found that although WN achieves better training accuracy, the final test accuracy is significantly lower (≈6%) than that of BN. This result demonstrates the surprising strength of the BN regularization effect which we were unable to compensate for using standard regularization techniques like dropout and weight decay. We also found that training of deep networks with WN algorithms is significantly less stable compared to BN, limiting their practical applications.
 
-## 1.2 StackExchange: What's the difference between Layer Normalization, Recurrent Batch Normalization (2016), and Batch Normalized RNN (2015)? 
-
+## 1.2 What's the difference between Layer Normalization, Recurrent Batch Normalization (2016), and Batch Normalized RNN (2015)? 
+#### StackExchange: https://datascience.stackexchange.com/questions/12956/paper-whats-the-difference-between-layer-normalization-recurrent-batch-normal
 * Layer normalization (Ba 2016): Does not use batch statistics. Normalize using the statistics collected from all units within a layer of the current sample. Does not work well with ConvNets.
 
 * Recurrent Batch Normalization (BN) (Cooijmans, 2016; also proposed concurrently by Qianli Liao & Tomaso Poggio, but tested on Recurrent ConvNets, instead of RNN/LSTM): Same as batch normalization. Use different normalization statistics for each time step. You need to store a set of mean and standard deviation for each time step.
