@@ -1,4 +1,6 @@
 ## Sampling and Weighting
+#### Ranked List Loss for Deep Metric Learning (CVPR 2019)
+* Paper: http://arxiv.org/abs/1903.03238
 #### Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019)
 * Paper: https://arxiv.org/abs/1811.01459
 
