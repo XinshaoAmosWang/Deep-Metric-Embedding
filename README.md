@@ -1,4 +1,6 @@
 ## Sampling and Weighting
+#### Improving MAE against CCE under Label Noise (arXiv 2019)
+* Paper: https://arxiv.org/pdf/1903.12141.pdf
 #### Ranked List Loss for Deep Metric Learning (CVPR 2019)
 * Paper: http://arxiv.org/abs/1903.03238
 #### Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019 Oral)
