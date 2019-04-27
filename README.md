@@ -3,7 +3,7 @@
 * Paper: http://arxiv.org/abs/1903.03238
 #### Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019)
 * Paper: https://arxiv.org/abs/1811.01459
-* Slide: https://docs.google.com/presentation/d/1EBdCRBad1HPFZjEkP9FkrmXEJ4Ar2lN02LqrZmG0I_8/edit?usp=sharing
+* Slide: https://drive.google.com/file/d/1Z44yvdrnrjIeH8x2A4e9-r275y25piKo/view?usp=sharing
 
 #### Sampling Matters in Deep Embedding Learning (ICCV 2017)
 * Paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Sampling_Matters_in_ICCV_2017_paper.pdf
