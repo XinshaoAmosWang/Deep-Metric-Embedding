@@ -3,6 +3,7 @@
 * Paper: https://arxiv.org/pdf/1903.12141.pdf
 #### Ranked List Loss for Deep Metric Learning (CVPR 2019)
 * Paper: http://arxiv.org/abs/1903.03238
+* Slide: https://drive.google.com/file/d/1nSXCe-7t_EkNwjFuXTnmzzoFr-6jFKVW/view
 #### Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019 Oral)
 * Paper: https://arxiv.org/abs/1811.01459
 * Slide: https://drive.google.com/file/d/1Z44yvdrnrjIeH8x2A4e9-r275y25piKo/view?usp=sharing
