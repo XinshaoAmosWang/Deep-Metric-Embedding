@@ -1,4 +1,7 @@
 ## Sampling and Weighting
+#### Emphasis Regularisation by Gradient Rescaling for Training Deep Neural Networks with Noisy Labels (arXiv 2019)
+* Paper: https://arxiv.org/pdf/1905.11233.pdf
+
 #### Improving MAE against CCE under Label Noise (arXiv 2019)
 * Paper: https://arxiv.org/pdf/1903.12141.pdf
 #### Ranked List Loss for Deep Metric Learning (CVPR 2019)
