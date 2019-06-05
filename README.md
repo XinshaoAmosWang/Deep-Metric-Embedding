@@ -5,6 +5,9 @@
 
 #### Improving MAE against CCE under Label Noise (arXiv 2019)
 * Paper: https://arxiv.org/pdf/1903.12141.pdf
+* Comments, sharing, discussion: 
+https://www.researchgate.net/publication/332070641_Improving_MAE_against_CCE_under_Label_Noise
+
 #### Ranked List Loss for Deep Metric Learning (CVPR 2019)
 * Paper: http://arxiv.org/abs/1903.03238
 * Slide: https://drive.google.com/file/d/1nSXCe-7t_EkNwjFuXTnmzzoFr-6jFKVW/view
