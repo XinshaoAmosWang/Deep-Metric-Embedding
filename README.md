@@ -1,11 +1,11 @@
 ## Sampling and Weighting
 #### Emphasis Regularisation by Gradient Rescaling for Training Deep Neural Networks with Noisy Labels (arXiv 2019)
-##### Rethinking data fitting and generalisation: MAE has weak training data fitting ability. 
+##### Rethinking data fitting and generalisation: MAE has weak training data fitting ability. Please consider how simple our solution is, which is backed up by our fundamental analysis
 * Paper: https://arxiv.org/pdf/1905.11233.pdf
 * Comments, sharing, discussion: https://www.researchgate.net/publication/333418661_Emphasis_Regularisation_by_Gradient_Rescaling_for_Training_Deep_Neural_Networks_with_Noisy_Labels/comments
 
 #### Improving MAE against CCE under Label Noise (arXiv 2019)
-##### Rethinking data fitting and generalisation: MAE has weak training data fitting ability. 
+##### Rethinking data fitting and generalisation: MAE has weak training data fitting ability. Please consider how simple our solution is, which is backed up by our fundamental analysis 
 * Paper: https://arxiv.org/pdf/1903.12141.pdf
 * Comments, sharing, discussion: 
 https://www.researchgate.net/publication/332070641_Improving_MAE_against_CCE_under_Label_Noise
