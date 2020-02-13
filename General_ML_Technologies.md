@@ -1,3 +1,27 @@
+## New update
+
+
+Robustness From CVPR 2019: [https://xinshaoamoswang.github.io/paperlists/2019-12-29-CVPR/#robustness](https://xinshaoamoswang.github.io/paperlists/2019-12-29-CVPR/#robustness)
+
+DML From CVPR 2019: [https://xinshaoamoswang.github.io/paperlists/2019-12-29-CVPR/#deep-metric-learning](https://xinshaoamoswang.github.io/paperlists/2019-12-29-CVPR/#deep-metric-learning)
+
+Label Noise & Importance Weighting From ICML 2019: [https://xinshaoamoswang.github.io/paperlists/2019-12-29-ICML/](https://xinshaoamoswang.github.io/paperlists/2019-12-29-ICML/)
+
+##### My Recent Work
+* [Derivative Manipulation for General Example Weighting](https://github.com/XinshaoAmosWang/DerivativeManipulation)
+
+* [IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude’s Variance Matters](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE)
+
+* [Paper Reading](https://xinshaoamoswang.github.io/paperlists/)
+
+
+
+
+
+
+
+
+
 # 1 Regularisation/Sample Reweighting
 
 #### Emphasis Regularisation by Gradient Rescaling for Training Deep Neural Networks with Noisy Labels (arXiv 2019)
