@@ -1,3 +1,15 @@
+## Highlight
+
+* [Instance Cross Entropy for Deep Metric Learning](https://arxiv.org/pdf/1911.09976.pdf) and its application in SimCLR-A Simple Framework for Contrastive Learning of Visual Representations
+
+    * I am very glad to highlight that:  our proposed ICE is simple and effective, which has also been demonstrated in recent work SimCLR, in the context of self-supervised learning: A Simple Framework for Contrastive Learning of Visual Representations
+
+    * Its loss expression NT-Xent (the normalized temperature-scaled cross entropy loss) is a fantastic application of our recently proposed Instance Cross Entropy for Deep Metric Learning,  in the context of self-supervised learnining. I am very excited about this.
+        * #InstanceCrossEntropy #TemperatureScaling #RepresentationLearning
+    * [Research Gate](https://www.researchgate.net/publication/337485049_Instance_Cross_Entropy_for_Deep_Metric_Learning/comments)
+    * [Open Review](https://openreview.net/forum?id=BJeguTEKDB&noteId=txrrkCL-sXhttps://openreview.net/forum?id=BJeguTEKDB&noteId=txrrkCL-sX)
+    * [Reddit](https://www.reddit.com/r/MachineLearning/comments/f4x1sh/r_instance_cross_entropy_for_deep_metric_learning/)
+
 ## New update
 
 
