@@ -1,5 +1,6 @@
 ## Highlight
 
+[https://xinshaoamoswang.github.io/paperlists/2020-02-16-arXiv/#foundation-of-deep-learning](https://xinshaoamoswang.github.io/paperlists/2020-02-16-arXiv/#foundation-of-deep-learning)
 * [Instance Cross Entropy for Deep Metric Learning](https://arxiv.org/pdf/1911.09976.pdf) and its application in SimCLR-A Simple Framework for Contrastive Learning of Visual Representations
 
     * I am very glad to highlight that:  our proposed ICE is simple and effective, which has also been demonstrated in recent work SimCLR, in the context of self-supervised learning: A Simple Framework for Contrastive Learning of Visual Representations
